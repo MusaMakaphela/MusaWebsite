@@ -105,6 +105,10 @@ p {
   .nav-site li {
     width: 50%;
   }
+  .imgCrop {
+    height: 5%;
+    max-width: 5%;
+  }
 }
 
 /*Begin Navigation*/

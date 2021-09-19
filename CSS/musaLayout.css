@@ -105,9 +105,11 @@ p {
   .nav-site li {
     width: 50%;
   }
+}
+@media screen and (min-width: 480px) {
   .imgCrop {
-    height: 3%;
-    max-width: 3%;
+    height: 4%;
+    max-width: 5%;
   }
 }
 

@@ -106,8 +106,8 @@ p {
     width: 50%;
   }
   .imgCrop {
-    height: 5%;
-    max-width: 5%;
+    height: 10%;
+    max-width: 10%;
   }
 }
 

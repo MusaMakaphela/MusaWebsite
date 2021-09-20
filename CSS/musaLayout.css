@@ -108,8 +108,8 @@ p {
 }
 @media screen and (max-width: 480px) {
   .imgCrop {
-    height: 10%;
-    max-width: 10%;
+    height: 20%;
+    max-width: 20%;
   }
 }
 
